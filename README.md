@@ -6,5 +6,5 @@ Computer Science Master's Program Student
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [nikadumbadze235@gmail.com](mailto:nikadumbadze235@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm learning Java
 * ⚡  I like game development
